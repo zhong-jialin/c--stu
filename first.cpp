@@ -1,5 +1,7 @@
 #include <iostream>
+using namespace std;
 int main(){
-    std::cout<< "hellow world" << std::endl;
-    std::cin.get();
+    cout << "hellow world" << endl;
+
+    return 0;
 }
